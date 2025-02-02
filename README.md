@@ -19,5 +19,13 @@
 💻 **GitHub Stats:**  
 ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayroll1&show_icons=true&theme=radical)  
 
+
+
+
+### 🔥 Explanation of New Stats:
+1. **GitHub Stats** – Shows commits, PRs, stars, etc.  
+2. **Top Languages** – Analyzes the most-used programming languages.  
+3. **GitHub Activity Graph** – Displays contribution history visually over time.  
+
 ⚡ **Fun Fact:** *I love exploring new tech stacks and optimizing web performance!*  
 
