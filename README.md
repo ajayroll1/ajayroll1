@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Ajay
-- 👀 I’m interested in  web Development,Python,Sql & Data Structure
-- 🌱 I’m currently learning web Development,Python Sql & Data Structure
-- 💞️ I’m looking to collaborate on web Development
-- 📫 How to reach me instagram - ajayroll1 
 
-<!---
-ajayroll1/ajayroll1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 👋 Hi, I'm Ajay Kumar Mahto  
+
+🚀 **Frontend Developer | Python & SQL Enthusiast | Web Development Passionate**  
+
+### About Me  
+- 💻 Passionate about **Frontend Development** with expertise in **React.js, HTML, CSS, JavaScript, and MySQL**.  
+- 🐍 Currently exploring **Python, Django, and Spring Boot** for backend development.  
+- 📚 Enthusiastic about **Data Structures, Algorithms, and Network Security**.  
+- 💡 Always eager to collaborate on **Web Development Projects** and open-source contributions.  
+- 🎯 Goal: To build scalable, high-performance web applications.  
+
+### 🌍 Connect with Me  
+📩 **Email:** [ajaymahto2580@gmail.com](mailto:ajaymahto2580@gmail.com)  
+🔗 **LinkedIn:** [Ajay Kumar Mahto](https://www.linkedin.com/in/ajay-mahto-911535163/)  
+📸 **Instagram:** [@ajayroll1](https://www.instagram.com/ajayroll1)  
+
+💻 **GitHub Stats:**  
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayroll1&show_icons=true&theme=radical)  
+
+⚡ **Fun Fact:** *I love exploring new tech stacks and optimizing web performance!*  
+
